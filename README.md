@@ -15,7 +15,7 @@ With [Meme-o-Mantle]
 
 But what makes it unique?
 
-This will not be another project focusing only on memecoin, there are more than just memecoin on Linea, and we will utilise it to fullest.
+This will not be another project focusing only on memecoin, there are more than just memecoin on Mantle, and we will utilise it to fullest.
 
 One liner intro of the project:
 
@@ -27,10 +27,10 @@ What to Expect:
 Unlike traditional launchpads, Meme-o-Mantle will support a wide array of assets beyond memecoins, including unique content and other blockchain-based resources.
 
 ### Deployment on Mantle: 
-We are deploying Meme-o-Mantle on the Linea chain to leverage its unique capabilities and performance. Mantle features will enhance our platform's efficiency and scalability, providing a robust environment for our launchpad.
+We are deploying Meme-o-Mantle on the Mantle chain to leverage its unique capabilities and performance. Mantle features will enhance our platform's efficiency and scalability, providing a robust environment for our launchpad.
 
 ### Advanced Analytics with Chainsight: 
 To provide actionable insights and real-time monitoring, we will integrate Chainsight into our platform. This will allow users to track transactions, analyze network performance, and gain valuable insights into blockchain activities.
 
 ## Our vision
-Meme-o-Mantle aims to be the go-to platform for community-driven projects on Ethereum. By combining powerful tools for asset management, integration with the Nero chain, and in-depth analytics with the help of Chainsight, we strive to create a comprehensive and user-centric launchpad experience.
+Meme-o-Mantle aims to be the go-to platform for community-driven projects on Mantle. By combining powerful tools for asset management, integration with the Mantle chain, and in-depth analytics with the help of Chainsight, we strive to create a comprehensive and user-centric launchpad experience.
